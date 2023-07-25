@@ -13,3 +13,18 @@ C:\Repositorios\Alura\CSharp\CSharp aulas POO\objectsOrientationCSharp\ScreenSou
 C:\Repositorios\Alura\CSharp\CSharp aulas POO\objectsOrientationCSharp\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
 C:\Repositorios\Alura\CSharp\CSharp aulas POO\objectsOrientationCSharp\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
 C:\Repositorios\Alura\CSharp\CSharp aulas POO\objectsOrientationCSharp\ScreenSound\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
+D:\Aulas dev\C#\objectsOrientationCSharp\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+D:\Aulas dev\C#\objectsOrientationCSharp\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+D:\Aulas dev\C#\objectsOrientationCSharp\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+D:\Aulas dev\C#\objectsOrientationCSharp\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+D:\Aulas dev\C#\objectsOrientationCSharp\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+D:\Aulas dev\C#\objectsOrientationCSharp\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
+D:\Aulas dev\C#\objectsOrientationCSharp\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas dev\C#\objectsOrientationCSharp\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+D:\Aulas dev\C#\objectsOrientationCSharp\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+D:\Aulas dev\C#\objectsOrientationCSharp\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+D:\Aulas dev\C#\objectsOrientationCSharp\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+D:\Aulas dev\C#\objectsOrientationCSharp\ScreenSound\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+D:\Aulas dev\C#\objectsOrientationCSharp\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+D:\Aulas dev\C#\objectsOrientationCSharp\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+D:\Aulas dev\C#\objectsOrientationCSharp\ScreenSound\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll

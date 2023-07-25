@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lucas.oliveira\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Lucas Vinicius\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositorios\\Alura\\CSharp\\CSharp aulas POO\\objectsOrientationCSharp\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
+      "projectUniqueName": "D:\\Aulas dev\\C#\\objectsOrientationCSharp\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
       "projectName": "ScreenSound",
-      "projectPath": "C:\\Repositorios\\Alura\\CSharp\\CSharp aulas POO\\objectsOrientationCSharp\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
-      "packagesPath": "C:\\Users\\lucas.oliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositorios\\Alura\\CSharp\\CSharp aulas POO\\objectsOrientationCSharp\\ScreenSound\\ScreenSound\\obj\\",
+      "projectPath": "D:\\Aulas dev\\C#\\objectsOrientationCSharp\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
+      "packagesPath": "C:\\Users\\Lucas Vinicius\\.nuget\\packages\\",
+      "outputPath": "D:\\Aulas dev\\C#\\objectsOrientationCSharp\\ScreenSound\\ScreenSound\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\lucas.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lucas Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
